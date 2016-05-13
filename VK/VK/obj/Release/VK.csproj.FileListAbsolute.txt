@@ -1,0 +1,17 @@
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Release\VK.exe.config
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\Interop.WMPLib.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\AxInterop.WMPLib.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.csproj.ResolveComReference.cache
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Release\VK.exe
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Release\VK.pdb
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Release\Newtonsoft.Json.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Release\Interop.WMPLib.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Release\AxInterop.WMPLib.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.csprojResolveAssemblyReference.cache
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.Form1.resources
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.Form2.resources
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.Properties.Resources.resources
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.csproj.GenerateResource.Cache
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.exe
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.pdb
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Release\VK.FriendsForm.resources

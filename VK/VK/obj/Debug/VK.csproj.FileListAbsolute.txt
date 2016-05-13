@@ -1,0 +1,17 @@
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Debug\VK.exe.config
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Debug\VK.exe
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Debug\VK.pdb
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.csprojResolveAssemblyReference.cache
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.Properties.Resources.resources
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.csproj.GenerateResource.Cache
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.exe
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.pdb
+c:\users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Debug\Interop.WMPLib.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Debug\Interop.WMPLib.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\delan\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.csproj.ResolveComReference.cache
+C:\Users\delan\Documents\Visual Studio 2013\Projects\VK\VK\obj\Debug\VK.Form1AudioPlayer.resources
+C:\Users\delan\Documents\Visual Studio 2013\Projects\VK\VK\obj\Debug\VK.Form2Autorization.resources
+C:\Users\delan\Documents\Visual Studio 2013\Projects\VK\VK\obj\Debug\VK.Form3MusicDownload.resources

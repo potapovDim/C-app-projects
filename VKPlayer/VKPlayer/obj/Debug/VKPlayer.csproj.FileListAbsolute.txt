@@ -1,0 +1,11 @@
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\bin\Debug\VKPlayer.exe.config
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\bin\Debug\VKPlayer.exe
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\bin\Debug\VKPlayer.pdb
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\obj\Debug\VKPlayer.csprojResolveAssemblyReference.cache
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\obj\Debug\VKPlayer.Form1.resources
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\obj\Debug\VKPlayer.Form2.resources
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\obj\Debug\VKPlayer.Properties.Resources.resources
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\obj\Debug\VKPlayer.csproj.GenerateResource.Cache
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\obj\Debug\VKPlayer.exe
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\obj\Debug\VKPlayer.pdb
+c:\users\delan\documents\visual studio 2013\Projects\VKPlayer\VKPlayer\bin\Debug\Newtonsoft.Json.dll
